@@ -1,8 +1,10 @@
 # sqlite_demo
 
-Flutter sqlite demo app
+<h2>FFlutter sqlite demo app</h2><br>
 
-## Getting Started
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+ADD,Update,delete <br>
+
+<br><br>
+<img src="https://github.com/chaudharybharat/Flutter-Sqlite/blob/master/image.png">
+
