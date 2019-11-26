@@ -1,0 +1,4 @@
+#Tue Nov 26 18:11:28 IST 2019
+base.0=/home/harsh/Downloads/sqlite_demo-master/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
